@@ -1,11 +1,11 @@
-<h1 align="centre">W2HMUSIC1 .0 🎵</h1>
+<h1 align="centre">𓆩★⃝⃝🕊️𝐑𝐀𝐖 𓆪 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐎𝐁𝐎𝐓™ .0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@W2H_MUSIC1_bot](https://t.me/W2H_MUSIC_1_BOT)
+### Available on telegram as [@Raw_ro_bot](https://t.me/Raw_ro_bot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/bfdae5228dbe6d1c92f93.jpg">
+  <img src="https://telegra.ph/file/5b0e1d9e16aa93b1d0578.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -112,8 +112,8 @@ If you donlt like to play in linked channel:
 - [Callsmusic](http://github.com/callsmusic/callsmusic)
 - [tgvc-userbot](https://github.com/callsmusic/tgvc-userbot)
 
-This project is inspired on the hard work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork W2HMUSIC1 won't exist. 
-Also W2HMUSIC1 is inspired by many opensource bots and userbots
+This project is inspired on the hard work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork 𓆩★⃝⃝🕊️𝐑𝐀𝐖 𓆪 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐎𝐁𝐎𝐓™ won't exist. 
+Also 𓆩★⃝⃝🕊️𝐑𝐀𝐖 𓆪 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐎𝐁𝐎𝐓™ is inspired by many opensource bots and userbots
 
 ### Don't Edit This Part
 
@@ -137,5 +137,5 @@ Also W2HMUSIC1 is inspired by many opensource bots and userbots
  - Copyright (C) 2020 - 2021 by [W2HGalaxy-OP](github.com/W2HGalaxy-OP) ❤️️
  - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/W2HGalaxy-OP/W2HMUSIC1/blob/master/LICENSE)
     
-W2HMUSIC1 is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
+𓆩★⃝⃝🕊️𝐑𝐀𝐖 𓆪 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐎𝐁𝐎𝐓™ is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
 ## Made with ♥️ by [W2HGalaxy-OP](https://github.com/W2HGalaxy-OP)
